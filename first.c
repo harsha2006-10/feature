@@ -10,6 +10,6 @@ int main()
 	printf("3rd element :-%d\n",*p);
 	printf("adderss of the 1st element:-%p\n",p);
 	printf("adderss of the 2nd element:-%p\n",p);
-	printf("adderss of the 3rd element:-%p\n",p):
+	printf("adderss of the 3rd element:-%p\n",p);
 
 
